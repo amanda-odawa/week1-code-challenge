@@ -3,7 +3,7 @@
 ### Challenge 1: Student Grade Generator (Toy Problem)
 Write a function that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade, as shown below: 
 
-        A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
+ A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
 
 
 ### Challenge 2: Speed Detector (Toy Problem)
@@ -22,3 +22,37 @@ NB: Use KRA, NHIF, and NSSF values provided in the link below.
 - Links to an external site.-  Links to an external site.Links to an external site.
 
 - www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
+
+## Installation
+1. **Fork the repository**
+2. **Clone the forked repository**
+    ```bash
+    git clone https://github.com/amanda-odawa/week1-code-challenge.git
+    ```
+3. **Navigate to the project directory**
+    ```bash
+    cd todo-list
+    ```
+4. **Open index.html in your web browser**
+
+## Contributing
+Feel free to contribute! Please follow the steps below:
+1. **Fork the repository**
+
+2. **Create a new branch**
+   ```bash
+   git checkout -b feature/YourFeature
+    ```
+3. **Commit your changes**
+    ```bash
+    git commit -m 'Add a new feature'
+    ```
+4. **Push to the branch**
+    ```bash
+    git push origin feature/YourFeature
+    ```
+5. **Open a Pull Request**
+
+## License
+*Distributed under the MIT License.*
+Explanation: Provides legal information about the use and distribution of your project.
